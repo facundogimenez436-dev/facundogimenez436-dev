@@ -16,7 +16,7 @@ Sigo un plan de estudio autodidacta en paralelo a mi formación técnica para do
 | Estado | Módulo / Enfoque | Temas Clave |
 | :---: | :--- | :--- |
 | 🟢 | **Consolidación y Sintaxis** | Tipos de datos, condicionales, bucles y colecciones en C# |
-| 🟢 | **Programación Orientada a Objetos** | Dominio absoluto de los 4 pilares e Interfaces en C# |
+| 🟢 | **Programación Orientada a Objetos** | Dominio de los 4 pilares e Interfaces en C# |
 | 🟡 | **Bases de Datos & SQL** | Motores relacionales, modelado y comandos estructurados |
 | ⚪ | **Persistencia con EF Core** | Mapeo Code-First y consultas optimizadas con LINQ |
 | ⚪ | **Desarrollo de Web APIs** | Estructura HTTP, Minimal APIs en ASP.NET Core y Swagger |
