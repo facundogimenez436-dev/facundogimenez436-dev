@@ -1,4 +1,4 @@
-# Facundo Gimenez
+# Facundo Giménez
 > 🚀 **Estudiante de Tecnicatura en Desarrollo de Software | Backend .NET Trainee**
 
 ---
