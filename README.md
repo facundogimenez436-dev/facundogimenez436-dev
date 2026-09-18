@@ -5,7 +5,7 @@
 
 ### 👤 Sobre Mí
 
-¡Bienvenido a mi espacio de desarrollo! Actualmente estoy cursando mi primer año de la carrera técnica, construyendo una base sólida en ingeniería de software y especializándome de forma autodidacta en el ecosistema de **.NET**. Mi enfoque está en la lógica de programación, arquitectura backend y la resolución eficiente de problemas complejos.
+¡Bienvenido a mi espacio de desarrollo! Actualmente estoy cursando mi primer año de la carrera técnica, construyendo una base sólida en desarrollo de software y especializándome de forma autodidacta en el ecosistema de **.NET**. Mi enfoque está en la lógica de programación, arquitectura backend y la resolución eficiente de problemas complejos.
 
 ---
 
